@@ -8,7 +8,6 @@ export default function Home() {
         Ghana Our Country
       </p>
       <PadItem />
-
       <CardItem />
       <div className="flex items-center col grid-cols-4 w-full p-4 gap-4 ">
         <p>

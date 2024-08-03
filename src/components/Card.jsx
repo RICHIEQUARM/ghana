@@ -1,14 +1,14 @@
 import Image from "next/image";
 
-export default function Card({ title, description, imageUrl, width, height }) {
+export default function Card({ title, description, imageUrl }) {
   return (
     <div>
       <div className="border rounded-lg shadow-lg overflow-hidden">
         <Image
           src={imageUrl}
           alt={title}
-          width={width}
-          height={height}
+          width={400}
+          height={250}
           className="object-cover"
         />
         <div className="p-4">

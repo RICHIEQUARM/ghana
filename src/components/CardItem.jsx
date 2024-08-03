@@ -7,8 +7,6 @@ export default function CardItem() {
       Description:
         "Beaches gives a sort of refreshment to the people of Ghana.",
       imageUrl: "/images/Beach.jpg",
-      width: 300,
-      height: 150,
     },
 
     {
@@ -16,8 +14,6 @@ export default function CardItem() {
       Description:
         "The people of Ghana have amazing festival which are celebrated every year",
       imageUrl: "/images/Anchors.jpg",
-      width: 1000,
-      height: 700,
     },
 
     {
@@ -25,8 +21,6 @@ export default function CardItem() {
       Description:
         "The Canopywalk is a famous tourist Attraction which has brought people from all  over the world.",
       imageUrl: "/images/Canopy.jpg",
-      width: 300,
-      height: 150,
     },
 
     {
@@ -34,8 +28,6 @@ export default function CardItem() {
       Description:
         " The Ocean View, the tides and its turbulent nature gives nature what can only be imagined.",
       imageUrl: "/images/GreenOcean.jpg",
-      width: 300,
-      height: 150,
     },
 
     {
@@ -43,8 +35,6 @@ export default function CardItem() {
       Description:
         "The World has amazing story to tell,the girth, determination and struggle of the  people  gives them hope of suceess.",
       imageUrl: "/images/StreetGirl.jpg",
-      width: 300,
-      height: 150,
     },
 
     {
@@ -52,8 +42,6 @@ export default function CardItem() {
       Description:
         "The people of Ghana has an incredible history when it comes to the shores, people all over the world come to witness its incredible views at the shores.",
       imageUrl: "/images/SeaBolt.jpg",
-      width: 300,
-      height: 150,
     },
   ];
   return (

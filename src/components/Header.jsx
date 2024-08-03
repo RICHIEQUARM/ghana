@@ -9,7 +9,7 @@ export default function Header() {
     <div className="flex justify-between items-center p-3  max-w-6xl mx-auto">
       <div className="flex gap-4 text-lg font-bold text-gray-400 ">
         <MenuItem title="Home" address="./" Icon={AiFillHome} />
-        <MenuItem title="About" address="./About" Icon={BsFillInfoCircleFill} />
+        <MenuItem title="About" address="/about" Icon={BsFillInfoCircleFill} />
       </div>
       <div className="flex gap-4 items-center">
         <SearchBox />
